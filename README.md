@@ -1,7 +1,7 @@
 ![MasterHead](https://imgs.search.brave.com/fpjUJfB6GVMcNpaADIMZQk8rRrp9Bb4JcO95lgsw7JU/rs:fit:1639:225:1/g:ce/aHR0cHM6Ly90c2Ux/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC40/QTVXeXNNOTB3VlRY/UzJTWHVqLVVnSGFD/SiZwaWQ9QXBp)
 <h1 align="center">Hi 👋, I'm Pranjal Sharma</h1>
 <h3 align="center">A passionate full stack developer from Kathmandu,Nepal</h3>
-<img align="right" alt="Coding" width="400" src="https://giphy.com/gifs/looneytunesworldofmayhem-world-of-mayhem-looney-tunes-ltwom-RbDKaczqWovIugyJmW">
+
 
 - 📫 How to reach me **unopranjal.sharma@gmail.com**
 
